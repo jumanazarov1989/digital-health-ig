@@ -71,6 +71,6 @@ This Implementation Guide includes:
 
 ---
 
-## 📜 License
+## 📜 License.
 
 This Implementation Guide is open-source under the **CC BY-SA 4.0** license.
